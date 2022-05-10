@@ -68,8 +68,8 @@ arrival_times[2] = 99999;
 unsigned long time_difference = 0;
 
 //The network information for my phone's hotspot.
-const char* ssid = "projectwlsn";
-const char* password = "123456789";
+const char* ssid = "write your wifo ssid"; 
+const char* password = "write your wifo password";
 
 
 //The intended time between transmissions to the other sensors and the network and the last time a transmission was sent.
